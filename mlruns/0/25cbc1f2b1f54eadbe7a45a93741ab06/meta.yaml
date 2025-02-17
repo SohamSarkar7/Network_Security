@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/25cbc1f2b1f54eadbe7a45a93741ab06/artifacts
+end_time: 1739793077366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25cbc1f2b1f54eadbe7a45a93741ab06
+run_name: calm-grub-828
+run_uuid: 25cbc1f2b1f54eadbe7a45a93741ab06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739793064390
+status: 4
+tags: []
+user_id: sarka
